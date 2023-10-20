@@ -5,12 +5,15 @@ Dev Ops Course
 t.me/nyanuwu_bot
 
 # Create Your TeleBot first:
+Make sure you have telegram desktop installed
 https://flowxo.com/how-to-create-a-bot-for-telegram-short-and-simple-guide-for-beginners/
-- follow the 1st 2 steps
+- Follow the 1st 2 steps
 
 # STEPS
 1. Go to https://shell.cloud.google.com/
 2. **git clone https://github.com/jywang-97/devops2023**
 3. Install the required Python libraries **pip3 install -r requirements.txt**
 4. Change TOKEN to your own chatbot token
-5. Run this command: python3 gpt-bot.py
+5. Run this command: python3 pollbot.py
+
+* Creation of pollbot, credits to https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/pollbot.py
