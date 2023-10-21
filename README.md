@@ -1,7 +1,7 @@
 # devops2023
 Dev Ops Course
 
-# Creation of telegram bot:
+# Telegram bot (for Poll/Quiz):
 t.me/nyanuwu_bot
 
 # Create Your TeleBot first:
