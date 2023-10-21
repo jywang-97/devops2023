@@ -15,6 +15,6 @@ https://flowxo.com/how-to-create-a-bot-for-telegram-short-and-simple-guide-for-b
 3. **cd devops2023**
 4. Install the required Python libraries **pip3 install -r requirements.txt**
 5. Change TOKEN to your own chatbot token
-6. Run this command: python3 pollbot.py
+6. Run this command: **python3 pollbot.py**
 
 * Creation of pollbot, credits to https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/pollbot.py
